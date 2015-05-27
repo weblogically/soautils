@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<env:Envelope xmlns:env="http://schemas.xmlsoap.org/soap/envelope/">
+  <env:Header />
+    <env:Body>
+    <SayHelloRequest xmlns="http://www.oracle.com/uk/ocs/examples/services/hello/xsd/">
+      <name>James</name>
+    </SayHelloRequest>
+  </env:Body>
+  </env:Envelope>

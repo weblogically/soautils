@@ -1,0 +1,3 @@
+<SayHelloRequest xmlns="http://www.oracle.com/uk/ocs/examples/services/hello/xsd/">
+	<name>James</name>
+</SayHelloRequest>
